@@ -6,6 +6,9 @@
     font-size: 16px;
     line-height: 1.6;
 }
+html {
+  scroll-behavior: smooth;
+}
 body{
     background: linear-gradient(62deg, #3a3d40 0%, #181719 100%);
     margin: 0;
